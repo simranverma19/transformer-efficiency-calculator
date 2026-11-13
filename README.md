@@ -27,4 +27,4 @@ Power Loss = Input Power - Output Power
 - Applying Python programming in EEE
 
 ## Author
-Simran, BTech EEE students 
+Simran | B.Tech Electrical and Electronics Engineering Student
